@@ -1,4 +1,4 @@
-# he likes me, he likes me notx
+# he likes me, he likes me not
 
 import random
 import math
